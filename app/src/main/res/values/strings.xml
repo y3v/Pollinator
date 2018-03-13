@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pollinator</string>
+    <string name="enter_choice_3">Enter Choice 3</string>
+    <string name="enter_choice_4">Enter Choice 4</string>
+    <string name="question_empty">Please enter a valid question</string>
+    <string name="choice_empty">Please enter a valid choice</string>
+    <string name="see_results">See Results</string>
+    <string name="start">Start</string>
+    <string name="enter_your_question">Enter your question</string>
+    <string name="enter_choice_1">Enter Choice 1</string>
+    <string name="enter_choice_2">Enter Choice 2</string>
+    <string name="title_activity_running_pool_results">RunningPoolResults</string>
+    <string name="noviy">New</string>
+    <string name="ok">OK</string>
+</resources>
